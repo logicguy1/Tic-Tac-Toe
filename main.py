@@ -70,4 +70,4 @@ while True:
         winSate = check_win(arr) # Check the bord if there is a winner
         if winSate is not None: # Check if there was a winner or not
             print(f"And the winner is {winSate}!") # Tell the user who won the game
-            exit() # Finally exit the program
+            exit() # Finally exit the program 
